@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-[Usual README text here]
+The repository contains starter code to compare outputs with, the Jupyter Notebook with the original model, the Jupyter Notebook with the attempts to optimize it, the H5 exported files, and a Results folder for the images that are necessary to display in the report.
 
 # Report
 **Step 4: Write a Report on the Neural Network Model**
@@ -52,4 +52,4 @@ Summary: Summarize the overall results of the deep learning model. Include a rec
 * There are a number of alternate models to the deep-learning model. A popular alternative is the Random Forest model, which merges decision trees instead of having multiple hidden layers. That model may be able to help achieve a higher performance and could be a better fit for the data.
 
 IMAGES
-![Image not found](Results\nn1.jpg)
+![Image not found](Results/nn1.jpg)
