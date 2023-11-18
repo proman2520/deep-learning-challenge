@@ -52,4 +52,4 @@ Summary: Summarize the overall results of the deep learning model. Include a rec
 * There are a number of alternate models to the deep-learning model. A popular alternative is the Random Forest model, which merges decision trees instead of having multiple hidden layers. That model may be able to help achieve a higher performance and could be a better fit for the data.
 
 IMAGES
-![Image not found](Results/nn1.jpg)
+![Image not found](Results/nn1.png)
